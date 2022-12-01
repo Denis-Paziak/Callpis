@@ -1,0 +1,25 @@
+.list-cell:filled:selected {
+    -fx-background-color: #59CE64;
+    -fx-font-weight: bold;
+      -fx-text-fill: #1F1D2B;
+}
+
+.list-cell:filled {
+    -fx-text-fill: #fff;
+    -fx-background-color: #262434;
+}
+
+.list-cell {
+    -fx-background-color:  #1F1D2B;
+}
+
+.my-input {
+     -fx-background-color:   #262434;
+     -fx-text-fill: #fff;
+}
+
+.my-input:focused {
+    -fx-background-color: #59CE64;
+    -fx-text-fill: #1F1D2B;
+}
+
